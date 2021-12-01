@@ -1,5 +1,7 @@
 # Multicam
-Multicam 5000 post processor for RhinoCam 2021 and basic tool library
+Multicam 5000 post processor for RhinoCam 2021 and basic tool library$
+Further information about the machine, access and howto's can be found here:
+https://raplab.arch.ethz.ch/multicam-5000/
 
 ## Post-Processor
 The post processor for the Multicam 5000 Series from the year 2011 includes all standard 2d and 3d milling features and, drilling / tap drilling.
